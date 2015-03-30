@@ -1,0 +1,197 @@
+/* 
+  Localizable.strings
+  Conasys
+
+  Created by user on 4/24/14.
+  Copyright (c) 2014 Evon technologies. All rights reserved.
+*/
+
+
+// *********LOGIN_VIEW_CONTROLLER AND STRINGS*********
+
+"LOGIN_ERROR_MESSAGE" = "Please do not leave any field blank.";
+"LOGIN_FAILED" = "Your username or password is incorrect. Please try again.";
+"Login_Username" = "Username";
+"Login_Password" = "Password";
+"Login_Get_Started" = "Get Started";
+"Login_RememberMe" = "Remember Username";
+"Login_Button_Title" = "Login";
+"Login_Header_Title" = "CONASYS HOMEOWNER CARE";
+"Login_Offline_User_Not_Exist_Error" = "Please check internet connectivity.";
+
+
+// *********BUILDER_PROJECT_VIEW_CONTROLLER AND BUILDER PRJOECT_TILE_VIEW*********
+
+"Builder_Project_Dashboard" = "CONASYS Homeowner Care Dashboard";
+"Builder_Project_Tile_Address" = "Address";
+"Builder_Project_Logout" = "Logout";
+"Builder_Project_Refresh" = "Refresh";
+
+
+//********* SERVICE REVIEW VIEW CONTROLLER *********
+
+"Service_goto" = "Go to:";
+"Service_Address" = "Address";
+"Service_Unit" = "Unit";
+"Service_Unit_Number" = "Unit Number";
+"Service_Street_Address" = "Street Address";
+"Service_Owner_Registered" = "Owner Registered";
+"Service_Completion_Date" = "Completion Date";
+"Service_Possession_Date" = "Possession Date";
+"Service_Review_Status" = "Review Status";
+"Service_Dashboard" = "Dashboard";
+"Service_Logout" = "Logout";
+"Service_UnitSearchBar_PlaceHolder" = "###";
+"Service_AddressSearchBar_PlaceHolder" = "Enter Address";
+
+
+// ********* OWNER_IDENTIFICATION_VIEW_CONTROLLLER
+
+"Owner_In_Report" = "In Report";
+"Owner_Name" = "Owner's Name";
+"Owner_Email" = "Email";
+"Owner_Phone" = "Phone";
+"Owner_Edit" = "Edit";
+"Owner_Performed_Name" = "Performed By";
+"Owner_Performed_Email" = "Email";
+"Owner_Legal_Description" = "Legal Description";
+"Owner_Legal_Builder_RefNum" = "Builder Reference #";
+"Owner_Possession_Date" = "Possession Date";
+"Owner_Enrollment_Number" = "Unit Enrolment/Policy #";
+"Owner_View_All_Units" = "View All Units";
+
+"Owner_Identification_NoOwner_Message" = "Please select at least one owner to include in this report.";
+"Owner_Identification_NoEmailPassword_Message" = "Please do not leave any field blank.";
+"Owner_Identification_InValid_Email_Message" = "Please enter valid email address.";
+
+"REGISTRATION_FAIL_ERROR" = "Registration Failed";
+
+"Owner_Identification_NoOwner_Registered" = "No owners are currently registered. You must be online in order to register a new owner.";
+
+// ********* CUSTOMER_CARE_VIEW_CONTROLLER *********
+
+"Customer_View_All_Units" = "View All Units";
+"Customer_Item" = "Item";
+"Customer_Location" = "Location";
+"Customer_Product" = "Product";
+"Customer_Description" = "Description";
+"Customer_Image" = "Images";
+"Customer_Additional_Comments" = "Additional Comments";
+"CustomerCare_Description_Null_Message" = "Please enter a description for each item.";
+"CustomerCare_DescriptionArray_Null_Message" = "You have no items. Please add an item first.";
+
+
+// ********* SUBMIT_VIEW_CONTROLLER *********
+
+"Submit_Header" = "CONASYS HOMEOWNER CARE";
+"Submit_View_AllUnits" = "View All Units";
+
+
+// *********GALLERY_PHOTOS_VIEW_CONTROLLER*********
+
+"Done" = "Done";
+"Cancel" = "Cancel";
+"Gallery_Album_Error" = "Album Error!";
+
+
+// *********CUSTOMER_CARE_TABLE*********
+
+"Miscellaneous" = "Miscellaneous";
+
+
+// *********CUSTOMER_CARE_CELL*********
+
+"Location_Alert_Message" = "Please select a location first.";
+"Customer_Cell_Select_Option" = "Select Option";
+"Customer_Cell_Select_Option_Gallery" = "Gallery";
+"Customer_Cell_Select_Option_Camera" = "Camera";
+"Customer_Cell_Cancel" = "Cancel";
+
+// *********SERVICE_REVIEW_CELL**********
+"Service_Cell_YES" = "Yes";
+"Service_Cell_NO" = "No";
+
+
+
+
+// *********STEP SLIDER VIEW ************
+
+"Step_Slider_Review_Item" = "Review Items";
+"Step_Slider_Confirmation" = "Confirmation";
+"Step_Slider_Identification" = "Owner Identification";
+"Step_Slider_Identification_Construction" = "Identification";
+"Step_Slider_Review_First" = "1";
+"Step_Slider_Review_Second" = "2";
+"Step_Slider_Review_Third" = "3";
+
+// *********APP BOTTOM VIEW ************
+
+"AppBottomView_Last_Sync" = "Last sync:";
+"AppBottomView_Online" = "Online";
+"AppBottomView_Offline" = "Offline";
+"PossessionDateView_Possession" = "Possession Date";
+
+// *********UNIT ENROLLMENT VIEW ************
+
+"UnitEnrollmentView_Btn_Title" = "Save";
+"UnitEnrollmentView_Enroll_PlaceHolder" = "Enter Number";
+"UnitEnrollmentView_Label_Enrollment" = "Unit Enrolment/Policy #";
+
+
+// *********REGISTER OWNER VIEW ************
+
+"Register_Owner_Label_Header" = "Register Owner";
+"Register_Owner_Label_Description" = "Personalize your email information and automatically receive email reminders when routine maintenance is due for your home. Your personal information will not be shared or sold to third parties, and you can unsubscribe to email reminders at any point by changing you portal settings.";
+ 
+"Register_Owner_Label_Confirm" = "Confirm Password";
+"Register_Owner_Label_Phone" = "Phone Number";
+"Register_Owner_Label_Receive_Email" = "Receive emails about new features?";
+"Register_Owner_Btn_Register" = "Register";
+"Register_Owner_Label_Required" = "Required";
+"Register_Owner_Label_Optional" = "Optional";
+
+"Register_Owner_Label_Username" = "     Username";
+"Register_Owner_Label_FirstName" = "     First Name";
+"Register_Owner_Label_LastName" = "     Last Name";
+"Register_Owner_Label_Password" = "     Password";
+"Register_Owner_Label_Email" = "     Email";
+
+"Register_Owner_Blank_Error" = "Please do not leave any field blank.";
+"Register_Owner_Password_Error" = "Password did not match.";
+"Register_Owner_Password_Short_Error" = "Please enter password more than 2 characters.";
+"Register_Owner_Network_Error" = "User cannot be registered in offline mode.";
+"Register_Owner_Invalid_Email_Error" = "Please enter valid email address.";
+
+"Register_Owner_Invalid_PhoneNumber_Error" = "Phone number can not be longer than 10 digits.";
+
+"Register_Owner_Invalid_PhoneNumber_Lesser_Error" = "Cannot enter less than 10 digits.";
+
+
+
+//"Register_Owner_PhoneNumber_Error" =
+
+// ********** EDIT OWNER VIEW *************
+
+"Edit_Owner_Label_Required" = "Required";
+"Edit_Owner_Header" = "Edit Owner";
+"Edit_Owner_Label_Username" = "Username";
+"Edit_Owner_Label_Phone_Number" = "Phone Number";
+"Edit_Owner_Label_Receive_Email" = "Receive emails about new features?";
+"Edit_Owner_Btn_Save" = "Save";
+
+"Edit_Owner_Label_First_Name" = "    First Name";
+"Edit_Owner_Label_Last_Name" = "    Last Name";
+"Edit_Owner_Label_Email" = "    Email";
+
+
+"Edit_Owner_Blank_Error" = "Please do not leave any field blank.";
+"Edit_Owner_Invalid_Email_Error" = "Please enter valid email address.";
+"Edit_Owner_Invalid_PhoneNumber_Error" = "Phone number can not be longer than 10 digits.";
+
+"Edit_Owner_Save_Network_Error" = "You can not edit an owner in offline mode.";
+
+
+//CUSTOM_ALERT
+
+"Custom_Alert_Ok" = "Ok";
+
